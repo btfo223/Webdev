@@ -1,0 +1,162 @@
+html, body{
+  margin: 0px;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.plx-image1{
+  background-image: url("../images/kentucky.JPG");
+  text-align: center;
+  width: 100%;
+  height: 900px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1{
+  font-size: 200px;
+  padding-top: 200px;
+  font-family: 'Mr Dafoe', cursive;
+  color: #FFFFFF;
+  -webkit-text-fill-color: rgba(255, 255, 255, 1);
+  text-shadow: -3px -3px 12px #313a49;
+  -webkit-transform: skew(-5deg,-5deg);
+  font-weight: normal;
+}
+
+.text2{
+  font-size: 40px;
+  color: white;
+  margin: 0 0 20px 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.content-1{
+  height: auto;
+  width: 100%;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.text3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
+  background-color: #f2f2f2;
+  padding-top: 50px;
+}
+
+.text4{
+  width: 70%;
+  margin-left: 15%;
+  padding: 30px 0 80px 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  background-color: #f2f2f2;
+  letter-spacing: 0.1em;
+  line-height: 1.8;
+}
+
+.plx-image2{
+  background-image: url(../images/owenton.jpg);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content-2{
+  height: auto;
+  width: 100%;
+  text-align: center;
+  background-color: #f2f2f2
+}
+
+.text5{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100px;
+  padding: 80px 0 80px 0;
+  letter-spacing: 0.5;
+}
+
+.plx-image3{
+  background-image: url(../images/cat.jpg);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.plx-image4{
+  background-image: url(../images/electric.jpg);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.plx-image5{
+  background-image: url(../images/html.png);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.plx-image6{
+  background-image: url(../images/research.jpg);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.plx-image7{
+  background-image: url(../images/it.jpg);
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.topnav a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #0033A0;
+}
+
+.active {
+  background-color: #000000;
+}
